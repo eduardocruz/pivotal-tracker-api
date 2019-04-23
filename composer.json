@@ -1,7 +1,7 @@
 {
-    "name":         "drzippie/pivotal-tracker-api",
-    "description":  "Library that provides a PHP interface to interact with the PivotalTracker API V5",
-    "homepage":     "https://github.com/drzippie/pivotal-tracker-api",
+    "name":         "eduardocruz/pivotal-tracker-api",
+    "description":  "A fork from drzippie/pivotal-tracker-api",
+    "homepage":     "https://github.com/eduardocruz/pivotal-tracker-api",
     "keywords":     ["pivotaltracker", "api", "v5"],
     "license":      "LGPL",
     "type":         "library",
@@ -15,6 +15,10 @@
             "name": "Manuel Pichler",
             "email": "mapi@manuel-pichler.de",
             "homepage": "http://manuel-pichler.de/"
+        },
+        {
+            "name": "Eduardo Cruz",
+            "homepage": "https://www.eduardocruz.com"
         }
     ],
 
