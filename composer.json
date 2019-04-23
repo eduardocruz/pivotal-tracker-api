@@ -3,7 +3,7 @@
     "description":  "A fork from drzippie/pivotal-tracker-api",
     "homepage":     "https://github.com/eduardocruz/pivotal-tracker-api",
     "keywords":     ["pivotaltracker", "api", "v5"],
-    "license":      "LGPL",
+    "license":      "LGPL-3.0-or-later",
     "type":         "library",
     "authors": [
         {
